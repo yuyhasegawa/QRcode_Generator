@@ -1,0 +1,12 @@
+Hello welcome to the qrcode_generator!!!
+
+before using this program make sure to have the python qrcode package installed
+if not installed type
+pip3 install "qrcode[pil]"
+to install
+
+to run this code type 
+python3 qrcode_generator.py   
+in the terminal
+
+enjoy!!!
